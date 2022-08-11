@@ -28,6 +28,11 @@ cd frontend
 npm start
 ```
 
+### Note:
+```bash
+Write your own .env file and have mongodb uri with password and username. Also the JWT_SECRET key.
+```
+
 ### Features:-
 ```bash
 1. Authentication
