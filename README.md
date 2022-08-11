@@ -1,25 +1,35 @@
 # Mern-SocketIo-ChatApp
 Chat App using full mern stack
 
-clone this repository
+### Clone this repository
 
+```bash
 cd Mern-SocketIo-ChatApp
+```
 
-Install dependencies
+### Install dependencies
 
+```bash
 1. npm install
-
+```
+```bash
 2. cd frontend/
     npm install
+```
 
-Start the Server
+#### Start the Server
+```bash
 npm run start
+```
 
-Start the Client
+#### Start the Client
+```bash
 cd frontend
 npm start
+```
 
-Features:-
+### Features:-
+```bash
 1. Authentication
 2. Socket-Io Real Time Chatting with Typing Indicators 
 3. Chat with single person or group
@@ -28,3 +38,4 @@ Features:-
 6. Notification using react notification badge
 7. Add or remove users from group
 8. View other user profile
+```
